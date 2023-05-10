@@ -1,4 +1,4 @@
-![Header](./header)
+![Header](./header.png)
 
 
 I'm a Software Engineer, with a product mindset. I love creating aesthetically pleasing UI, learning new technologies, and working on projects that create large-scale impact. 
