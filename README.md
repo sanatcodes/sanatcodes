@@ -66,6 +66,21 @@ Currently, I'm managing the development of an integrated suite of AI tools for j
  </a> 
 </p>
 
+![](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=plastic)
+![](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&style=plastic)
+![](https://img.shields.io/badge/-Python-yellow?logo=python&style=plastic)
+![](https://img.shields.io/badge/-Java-red?logo=java&style=plastic)
+![](https://img.shields.io/badge/-SQL-lightgrey?logo=sql&style=plastic)
+![](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&style=plastic)
+![](https://img.shields.io/badge/-Firebase-orange?logo=firebase&style=plastic)
+![](https://img.shields.io/badge/-AWS-blue?logo=amazon-aws&style=plastic)
+![](https://img.shields.io/badge/-NodeJS-green?logo=node.js&style=plastic)
+![](https://img.shields.io/badge/-React-blue?logo=react&style=plastic)
+![](https://img.shields.io/badge/-Next.JS-black?logo=next.js&style=plastic)
+![](https://img.shields.io/badge/-Solidity-lightgrey?logo=solidity&style=plastic)
+![](https://img.shields.io/badge/-Docker-blue?logo=docker&style=plastic)
+![](https://img.shields.io/badge/-Jenkins-red?logo=jenkins&style=plastic)
+![](https://img.shields.io/badge/-Git-black?logo=git&style=plastic)
 
 
 
