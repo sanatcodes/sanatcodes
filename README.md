@@ -1,4 +1,5 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
+
 
 I'm a Software Engineer, with a product mindset. I love creating aesthetically pleasing UI, learning new technologies, and working on projects that create large-scale impact. 
 
@@ -49,10 +50,10 @@ Currently, I'm managing the development of an integrated suite of AI tools for j
    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
  </a> 
  <a href="https://nextjs.org/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> 
+   <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="nextjs" width="40" height="40"/> 
  </a> 
  <a href="https://soliditylang.org/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" alt="solidity" width="40" height="40"/> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> 
  </a> 
  <a href="https://www.docker.com/" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
@@ -64,6 +65,8 @@ Currently, I'm managing the development of an integrated suite of AI tools for j
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  </a> 
 </p>
+
+
 
 
 <!-- 
