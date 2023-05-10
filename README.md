@@ -17,7 +17,29 @@ Here, I developed a web application to aggregate trending categories from YouTub
 Currently, I'm managing the development of an integrated suite of AI tools for job seekers. This project is jam-packed with AI goodness including a personalized CV and cover letter generator, a virtual interview simulator, a networking tool, a CV analyzer, and bite-size courses for skill improvement. Stay tuned for more updates!
 
 ## 📚 Languages & Technologies 
-JavaScript, TypeScript, Python, Java, SQL, Casandra, MongoDB, Firebase, AWS, NodeJS, React, Next.JS, Solidity, Docker, Jenkins, Sonar, and Git
+<p align="left">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
+ </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
+ </a> 
+ <a href="https://www.python.org/" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+ </a> 
+ <a href="https://www.java.com" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
+ </a> 
+ <a href="https://www.mysql.com/" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
+ </a> 
+ <a href="https://www.mongodb.com/" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
+ </a> 
+ <a href="https://firebase.google.com/" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+ </a> 
+</p>
 ## 📚 Languages & Technologies 
 ![](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=plastic)
 ![](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&style=plastic)
