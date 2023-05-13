@@ -109,7 +109,6 @@ Currently, I'm managing the development of an integrated suite of AI tools for j
 ![](https://img.shields.io/badge/-Notion-000000?logo=notion&style=flat)
 ![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&style=flat)
 ![](https://img.shields.io/badge/-ESLint-4B3263?logo=eslint&style=flat)
-![](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&style=flat)
 
 
 
