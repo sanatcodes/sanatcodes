@@ -18,7 +18,7 @@ Here, I developed a web application to aggregate trending categories from YouTub
 Currently, I'm managing the development of an integrated suite of AI tools for job seekers. This project is jam-packed with AI goodness including a personalized CV and cover letter generator, a virtual interview simulator, a networking tool, a CV analyzer, and bite-size courses for skill improvement. Stay tuned for more updates!
 
 ## 📚 Languages & Technologies 
-<p align="left">
+<!-- <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
  </a> 
@@ -64,7 +64,7 @@ Currently, I'm managing the development of an integrated suite of AI tools for j
  <a href="https://git-scm.com/" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  </a> 
-</p>
+</p> -->
 
 ![](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat)
@@ -94,8 +94,7 @@ Currently, I'm managing the development of an integrated suite of AI tools for j
 ![](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&style=flat)
 ![](https://img.shields.io/badge/-Expo-1C1E24?logo=expo&style=flat)
 ![](https://img.shields.io/badge/-Express.js-000000?logo=express&style=flat)
-![](https://img.shields.io/badge/-Chakra%20UI-319795?logo=
-chakra-ui&style=flat)
+![](https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&style=flat)
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=flat)
 ![](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat)
 ![](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&style=flat)
