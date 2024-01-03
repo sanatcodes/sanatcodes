@@ -10,12 +10,14 @@ An app that promotes responsible food consumption by tracking expiry dates. We u
 
 ### 📦 ParcelSure - ChainLink Summer Hackathon 2022
 This was a fun one! A Web3 insurance protocol to insure drop-shipped packages, deployed on Ethereum (Rinkeby) built using Solidity, Hardhat, Svelte & Chainlink.
-
+<!--
 ### 📈 Project Growth – Final Year Project 2023
 Here, I developed a web application to aggregate trending categories from YouTube, providing users with an analytics dashboard. Check out the interactive graphs and predictions generated from models built on SciKit-Learn!
 
 ### 🤖 Give A Go - AI-Powered Job Application Assistant
 Currently, I'm managing the development of an integrated suite of AI tools for job seekers. This project is jam-packed with AI goodness including a personalized CV and cover letter generator, a virtual interview simulator, a networking tool, a CV analyzer, and bite-size courses for skill improvement. Stay tuned for more updates!
+
+-->
 
 ## 📚 Languages & Technologies 
 <!-- <p align="left">
