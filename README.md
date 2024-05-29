@@ -1,15 +1,19 @@
 ![Header](./header.png)
 
 
-I'm a Software Engineer, with a product mindset. I love creating aesthetically pleasing UI, learning new technologies, and working on projects that create large-scale impact. 
+I'm an ML Researcher and Software Engineer, with a product mindset. I love creating aesthetically pleasing UI, learning new technologies, and working on projects that create large-scale impact. 
 
 ## 🏆 Projects
+
+### 🖼️ Enfy - Patch 2023
+An AI-powered art creation platform that generates stunning artwork from a text prompt. Developed MVP using React, Chakra UI, Firebase, and Express in 4 weeks. Integrated a custom prompt generator that translates user ideas into inputs for our stable diffusion model. Achieved the first sale in less than 7 days and pivoted to B2B with a Shopify Extension.
+
+### 📦 ParcelSure - ChainLink Summer Hackathon 2022
+This was a fun one! A Web3 insurance protocol to insure drop-shipped packages, deployed on Ethereum (Rinkeby) built using Solidity, Hardhat, Svelte & Chainlink.
 
 ### 🍎 Foodify - TU Dublin President’s Sustainability Innovation Award 2022 | Google Solution challenge 2021 (Semi-finalist)
 An app that promotes responsible food consumption by tracking expiry dates. We used Flutter, Google ML kit, and Cloud Firestore to whip this up in less than 3 months!
 
-### 📦 ParcelSure - ChainLink Summer Hackathon 2022
-This was a fun one! A Web3 insurance protocol to insure drop-shipped packages, deployed on Ethereum (Rinkeby) built using Solidity, Hardhat, Svelte & Chainlink.
 <!--
 ### 📈 Project Growth – Final Year Project 2023
 Here, I developed a web application to aggregate trending categories from YouTube, providing users with an analytics dashboard. Check out the interactive graphs and predictions generated from models built on SciKit-Learn!
