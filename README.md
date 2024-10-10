@@ -5,13 +5,25 @@ I'm an ML Researcher and Software Engineer, with a product mindset. I love creat
 
 ## 🏆 Projects
 
-### 🖼️ Enfy - Patch 2023
+### 🚗 [JetRacer Pro - ML-Labs ](https://github.com/sanatcodes/Self-driving-jetsonNano)
+
+An autonomous driving project using the NVIDIA Jetson Nano and JetRacer Pro AI Kit, focusing on real-time navigation and obstacle avoidance. Developed and fine-tuned deep learning models like ResNet-18 for steering control, achieving smooth navigation at an average of 6.2 seconds per lap. Implemented advanced data augmentation techniques using OpenCV, improving model performance across diverse conditions. Worked with a collaborative team to push the boundaries of edge AI and adaptive driving technologies.
+
+### 📚 [Making Generative Books with RAG](https://github.com/sanatcodes/ggo-read-books-with-rag/blob/main/readme.md)
+
+An innovative app that enables users to interact with their PDF documents as if chatting with an author! Developed using Python, FastAPI, and Streamlit, the MVP utilizes Retrieval-Augmented Generation (RAG) to break PDFs into manageable text chunks, generate embeddings stored in Pinecone, and respond to user queries using a powerful Large Language Model (LLM). Completed in just a few weeks, this project enhances the reading experience by providing instant, context-aware answers from your favorite books!
+
+[### 🚀 Give(a)Go New Tab Extension](https://github.com/HarshHC/newtab-ggo)
+
+Give(a)Go New Tab is a Chrome extension that transforms your default new tab page into a personalized dashboard, featuring various widgets such as a Spotify integration showcasing your top 3 tracks, a dev joke generator, and a weather widget. It includes a smart search bar that defaults to ChatGPT, allowing users to easily send queries from anywhere in Chrome. Developed with ease of use in mind, this extension invites customization and contributions, making browsing more enjoyable and interactive! 🌟
+
+### 🖼️ [Enfy - Patch ](https://github.com/sanatcodes/Enfy)
 An AI-powered art creation platform that generates stunning artwork from a text prompt. Developed MVP using React, Chakra UI, Firebase, and Express in 4 weeks. Integrated a custom prompt generator that translates user ideas into inputs for our stable diffusion model. Achieved the first sale in less than 7 days and pivoted to B2B with a Shopify Extension.
 
-### 📦 ParcelSure - ChainLink Summer Hackathon 2022
+### 📦 [ParcelSure - ChainLink Summer Hackathon ](https://github.com/sanatcodes/delivery-insurance-chainlink-hackathon)
 This was a fun one! A Web3 insurance protocol to insure drop-shipped packages, deployed on Ethereum (Rinkeby) built using Solidity, Hardhat, Svelte & Chainlink.
 
-### 🍎 Foodify - TU Dublin President’s Sustainability Innovation Award 2022 | Google Solution challenge 2021 (Semi-finalist)
+### 🍎 [Foodify - TU Dublin President’s Sustainability Innovation Award 2022 | Google Solution challenge (Semi-finalist)](https://github.com/NterpriseCEO/GoogleSolutions)
 An app that promotes responsible food consumption by tracking expiry dates. We used Flutter, Google ML kit, and Cloud Firestore to whip this up in less than 3 months!
 
 <!--
