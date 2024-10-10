@@ -13,7 +13,7 @@ An autonomous driving project using the NVIDIA Jetson Nano and JetRacer Pro AI K
 
 An innovative app that enables users to interact with their PDF documents as if chatting with an author! Developed using Python, FastAPI, and Streamlit, the MVP utilizes Retrieval-Augmented Generation (RAG) to break PDFs into manageable text chunks, generate embeddings stored in Pinecone, and respond to user queries using a powerful Large Language Model (LLM). Completed in just a few weeks, this project enhances the reading experience by providing instant, context-aware answers from your favorite books!
 
-[### 🚀 Give(a)Go New Tab Extension](https://github.com/HarshHC/newtab-ggo)
+### 🚀 [Give(a)Go New Tab Extension](https://github.com/HarshHC/newtab-ggo)
 
 Give(a)Go New Tab is a Chrome extension that transforms your default new tab page into a personalized dashboard, featuring various widgets such as a Spotify integration showcasing your top 3 tracks, a dev joke generator, and a weather widget. It includes a smart search bar that defaults to ChatGPT, allowing users to easily send queries from anywhere in Chrome. Developed with ease of use in mind, this extension invites customization and contributions, making browsing more enjoyable and interactive! 🌟
 
