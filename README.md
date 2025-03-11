@@ -5,6 +5,10 @@ I'm an ML Researcher and Software Engineer, with a product mindset. I love creat
 
 ## 🏆 Projects
 
+## 🌐 [Williampedia - HackIreland 2025](https://github.com/noel-friedrich/team1)
+
+A playful experiment from Hack Ireland where an LLM autonomously generates Wikipedia-style articles and continuously picks new topics from its own writing. Discover its chain of ideas at [williampedia.com/history](williampedia.com/history), check out our [dev post](https://devpost.com/software/williampedia) for insights, and don't forget to say hi to [William!]([url](https://williampedia.com))
+
 ### 🚗 [JetRacer Pro - ML-Labs ](https://github.com/sanatcodes/Self-driving-jetsonNano)
 
 An autonomous driving project using the NVIDIA Jetson Nano and JetRacer Pro AI Kit, focusing on real-time navigation and obstacle avoidance. Developed and fine-tuned deep learning models like ResNet-18 for steering control, achieving smooth navigation at an average of 6.2 seconds per lap. Implemented advanced data augmentation techniques using OpenCV, improving model performance across diverse conditions. Worked with a collaborative team to push the boundaries of edge AI and adaptive driving technologies.
@@ -129,37 +133,12 @@ Currently, I'm managing the development of an integrated suite of AI tools for j
 ![](https://img.shields.io/badge/-ESLint-4B3263?logo=eslint&style=flat)
 
 
-
-
-<!-- 
-## 📚 Languages & Technologies 
-![](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=plastic)
-![](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&style=plastic)
-![](https://img.shields.io/badge/-Python-yellow?logo=python&style=plastic)
-![](https://img.shields.io/badge/-Java-red?logo=java&style=plastic)
-![](https://img.shields.io/badge/-SQL-lightgrey?logo=sql&style=plastic)
-![](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&style=plastic)
-![](https://img.shields.io/badge/-Firebase-orange?logo=firebase&style=plastic)
-![](https://img.shields.io/badge/-AWS-blue?logo=amazon-aws&style=plastic)
-![](https://img.shields.io/badge/-NodeJS-green?logo=node.js&style=plastic)
-![](https://img.shields.io/badge/-React-blue?logo=react&style=plastic)
-![](https://img.shields.io/badge/-Next.JS-black?logo=next.js&style=plastic)
-![](https://img.shields.io/badge/-Solidity-lightgrey?logo=solidity&style=plastic)
-![](https://img.shields.io/badge/-Docker-blue?logo=docker&style=plastic)
-![](https://img.shields.io/badge/-Jenkins-red?logo=jenkins&style=plastic)
-![](https://img.shields.io/badge/-Git-black?logo=git&style=plastic)
- -->
-
-## 🏞️ Hobbies
-When I'm not coding, I'm probably out in the wilderness, exploring the beautiful outdoors through hiking and camping. I also love reading, listening to podcasts, and photography. 
-
 ## 📫 Connect with me
-Feel free to reach out if you want to chat about my projects, need any help, or simply want to connect. I'm always open to making new friends in the community! 
+Feel free to reach out if you want to chat about my projects, need any help, or simply want to connect!
 - 📧 Email: [sanat.thukral@gmail.com](mailto:sanat.thukral@gmail.com)
 - 🌐 LinkedIn: [https://www.linkedin.com/in/sanat-thukral/](https://www.linkedin.com/in/sanat-thukral/)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanatcodes&theme=gruvbox)](https://git.io/streak-stats)
 <!---
 sanatcodes/sanatcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
