@@ -5,7 +5,7 @@ I'm an ML Researcher and Software Engineer, with a product mindset. I love creat
 
 ## 🏆 Projects
 
-## 🌐 [Williampedia - HackIreland 2025](https://github.com/noel-friedrich/team1)
+### 🌐 [Williampedia - HackIreland 2025](https://github.com/noel-friedrich/team1)
 
 A playful experiment from Hack Ireland where an LLM autonomously generates Wikipedia-style articles and continuously picks new topics from its own writing. Discover its chain of ideas at [williampedia.com/history](williampedia.com/history), check out our [dev post](https://devpost.com/software/williampedia) for insights, and don't forget to say hi to [William!]([url](https://williampedia.com))
 
